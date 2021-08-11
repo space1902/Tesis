@@ -9,6 +9,7 @@ Repositorio Tesis_IOT (Implementación de un Sistema Autónomo de Monitoreo y Au
 - Dragino https://www.dragino.com/
 - android https://www.android.com/intl/es_es/
 - Firebase https://firebase.google.com/
+- ThinkSpeak https://thingspeak.com/
 
 
 ------------
