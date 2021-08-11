@@ -2,7 +2,7 @@
 
 Repositorio Tesis_IOT (Implementación de un Sistema Autónomo de Monitoreo y Automatización Usando Tecnología Lora en Avicultura en la Vereda Agualinda en el Municipio de los Patios)
 
-##En este proyecto se manejas diferentes tecnologias
+## En este proyecto se manejas diferentes tecnologias
 
 -  Arduino https://www.arduino.cc/
 - LoraWan https://lora-alliance.org/about-lorawan/
